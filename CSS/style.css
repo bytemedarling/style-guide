@@ -15,5 +15,11 @@ nav a {
 }
 
 nav:hover {
-    background-color: lightgray;
+    background-color: rgb(221, 217, 217);
 }
+
+/*Header*/
+h1 {
+    text-align: center;
+}
+
