@@ -1,4 +1,4 @@
-/*Nav Links*/
+/* ==== Nav Links ==== */
 nav ul {
     display: flex;
     gap: 1rem;
@@ -15,11 +15,12 @@ nav a {
 }
 
 nav:hover {
-    background-color: rgb(221, 217, 217);
+    background-color: rgb(229, 231, 235);
 }
 
-/*Header*/
+/* ==== Header ==== */
 h1 {
     text-align: center;
 }
 
+/* ==== Color Cards ==== */
