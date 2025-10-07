@@ -35,9 +35,8 @@ h1, h3 {
 /* ==== Grid that holds the Cards ==== */
 .color-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax (180px, 1fr));
+    grid-template-columns: repeat(4, 1fr)
     gap: 1rem;
-    justify-items: center;
 }
 
 /* ==== the Card itself ==== */
@@ -45,16 +44,12 @@ h1, h3 {
     background-color: #fafafa;
     text-align: center;
     max-width: 220px;
-    width: 100%;
-
+    overflow: hidden;
 }
 
 /* ==== the Big Color Box ==== */
 .color-card .swatch {
-    width: 100%;
-    height 90px;
-    border-radius: 4px;
-    margin-bottom: .5rem;
+   height: 110px;
 }
 
 /* ==== Name and Code Text ==== */
@@ -71,4 +66,16 @@ h1, h3 {
 /* ==== Individual Color Backgrounds ==== */
 .purple500 {
     background: #8B5CF6;
+}
+
+.rose500 {
+    background: #F43F5E;
+}
+
+.teal500 {
+    background: #14B8A6;
+}
+
+.yellow400 {
+    background: #FACC15;
 }
