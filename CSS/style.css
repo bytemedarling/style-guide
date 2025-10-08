@@ -37,12 +37,12 @@ h1, h3 {
     outline: 2px dashed red;
     display: grid;
     grid-template-columns: repeat(4, 1fr)
-    gap:1rem;
+    gap: 1rem;
 }
 
 /* ==== the Card itself ==== */
 .color-card {
-    background-color: #fafafa;
+    background-color: white;
     text-align: center;
     max-width: 220px;
     overflow: hidden;
