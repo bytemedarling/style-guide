@@ -37,7 +37,7 @@ h1 {
     gap: 1rem;
 }
 
-#colors h2 {
+h2 {
     text-align: center;
 }
 
@@ -46,6 +46,7 @@ h1 {
     background: white;
     text-align: center;
     border: 1px solid rgb(240, 234, 234);
+    border-radius: 3px;
     width: 200px;
     overflow: hidden;
 }
