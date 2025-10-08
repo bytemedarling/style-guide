@@ -3,7 +3,7 @@ html {
 }
 
 /* ==== Nav Links ==== */
-nav ul {
+.navigation ul {
     display: flex;
     gap: 1rem;
     list-style: none;
@@ -12,14 +12,14 @@ nav ul {
     justify-content: center;
 }
 
-nav a {
+.navigation a {
     text-decoration: none;
     color: rgb(84, 10, 130);
     font-weight: bold;
 }
 
-nav:hover {
-    background-color: rgb(229, 231, 235);
+.navigation:hover {
+    background: rgb(229, 231, 235);
 }
 
 /* ==== Header ==== */
