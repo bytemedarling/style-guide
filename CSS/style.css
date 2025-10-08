@@ -23,7 +23,7 @@ nav:hover {
 }
 
 /* ==== Header ==== */
-h1, h3 {
+h1 {
     text-align: center;
 }
 
@@ -67,12 +67,12 @@ h1, h3 {
     background: #8B5CF6;
 }
 
-.pink {
-    background: #EC4899;
+.fuscia {
+    background: #D946EF;
 }
 
-.teal {
-    background: #14B8A6;
+.amber {
+    background: #F59E0B;
 }
 
 .yellow {
