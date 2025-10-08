@@ -29,22 +29,23 @@ h1, h3 {
 
 /* ==== Color Cards Section ==== */
 .colors {
-    margin: 2rem 0;
+    max-width: 700px;
+    margin: 2rem auto;
+    padding 0 1rem;
 }
 
 /* ==== Grid that holds the Cards ==== */
 .color-grid {
     outline: 2px dashed red;
     display: grid;
-    grid-template-columns: repeat(4, 1fr)
-    gap: 1rem;
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
 }
 
 /* ==== the Card itself ==== */
 .color-card {
     background-color: white;
     text-align: center;
-    max-width: 220px;
     overflow: hidden;
 }
 
