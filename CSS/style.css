@@ -34,6 +34,7 @@ h1, h3 {
 
 /* ==== Grid that holds the Cards ==== */
 .color-grid {
+    outline: 2px dashed red;
     display: grid;
     grid-template-columns: repeat(4, 1fr)
     gap:1rem;
