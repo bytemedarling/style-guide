@@ -37,6 +37,10 @@ h1 {
     gap: 1rem;
 }
 
+#color-card h2 {
+    text-align: center;
+}
+
 /* ==== the Card itself ==== */
 .color-card {
     background: white;
@@ -49,11 +53,6 @@ h1 {
 /* ==== the Big Color Box ==== */
 .swatch {
     height: 110px;
-}
-
-/* ==== Title for Color Cards ==== */
-h2 {
-    text-align: center;
 }
 
 /* ==== Name and Code Text ==== */
