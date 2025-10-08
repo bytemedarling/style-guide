@@ -28,40 +28,31 @@ h1, h3 {
 }
 
 /* ==== Color Cards Section ==== */
-.colors {
-    max-width: 700px;
+#colors {
+    max-width: 400px;
     margin: 2rem auto;
-    padding 0 1rem;
-}
-
-/* ==== Grid that holds the Cards ==== */
-.color-grid {
-    outline: 2px dashed red;
-    display: grid;
-    grid-template-columns: 1fr;
-    row-gap: 1rem;
 }
 
 /* ==== the Card itself ==== */
 .color-card {
     background-color: white;
     text-align: center;
-    overflow: hidden;
+    margin-bottom: 1rem;
 }
 
 /* ==== the Big Color Box ==== */
-.color-card .swatch {
+.swatch {
     height: 110px;
 }
 
 /* ==== Name and Code Text ==== */
 .color-card h3 {
-    margin: .3rem 0;
+    margin: .35rem 0 .25rem;
     font-size: 1px;
 }
 
 .color-card p {
-    margin: .15rem 0;
+    margin: 0 0 .25rem;
     font-size: .9rem;
 }
 
