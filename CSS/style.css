@@ -51,6 +51,11 @@ h1 {
     height: 110px;
 }
 
+/* ==== Title for Color Cards ==== */
+h2 {
+    text-align: center;
+}
+
 /* ==== Name and Code Text ==== */
 .color-card h3 {
     margin: .35rem 0 .25rem;
@@ -61,7 +66,7 @@ h1 {
 
 .color-card p {
     margin: 0 0 .25rem;
-    font-size: .9rem;
+    font-size: 14px;
 }
 
 /* ==== Individual Color Backgrounds ==== */
