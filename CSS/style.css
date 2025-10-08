@@ -64,18 +64,18 @@ h1, h3 {
 }
 
 /* ==== Individual Color Backgrounds ==== */
-.purple500 {
+.purple500 .swatch {
     background: #8B5CF6;
 }
 
-.pink500 {
+.pink500 .swatch {
     background: #EC4899;
 }
 
-.teal500 {
+.teal500 .swatch {
     background: #14B8A6;
 }
 
-.yellow400 {
+.yellow400 .swatch {
     background: #FACC15;
 }
