@@ -19,7 +19,8 @@ html {
 }
 
 .navigation a:hover {
-    background: rgb(229, 231, 235);
+    background: #8B5CF6;
+    color: white;
 }
 
 /* ==== Header ==== */
