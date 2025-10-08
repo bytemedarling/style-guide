@@ -14,11 +14,11 @@ html {
 
 .navigation a {
     text-decoration: none;
-    color: rgb(84, 10, 130);
+    color: black;
     font-weight: bold;
 }
 
-.navigation:hover {
+.navigation a:hover {
     background: rgb(229, 231, 235);
 }
 
