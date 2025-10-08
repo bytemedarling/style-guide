@@ -40,6 +40,7 @@ h1 {
 #colors h2 {
     text-align: center;
     margin-bottom: 1.5rem;
+    width: 100%;
 }
 
 /* ==== the Card itself ==== */
