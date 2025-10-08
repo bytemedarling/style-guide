@@ -29,20 +29,21 @@ h1, h3 {
 
 /* ==== Color Cards Section ==== */
 #colors {
-    max-width: 400px;
+    max-width: 1000px;
     margin: 2rem auto;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 1rem;
 }
 
 /* ==== the Card itself ==== */
 .color-card {
-    background-color: white;
+    background: white;
     text-align: center;
-    margin-bottom: 1rem;
     border: 1px solid rgb(240, 234, 234);
     width: 200px;
+    overflow: hidden;
 }
 
 /* ==== the Big Color Box ==== */
