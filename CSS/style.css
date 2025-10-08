@@ -31,6 +31,9 @@ h1, h3 {
 #colors {
     max-width: 400px;
     margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 /* ==== the Card itself ==== */
