@@ -22,7 +22,7 @@ html {
 }
 
 .navigation a:hover {
-    background: #8B5CF6;
+    background: #c8b5f6;
     color: white;
 }
 
@@ -57,7 +57,9 @@ h1 {
     overflow: hidden;
 }
 
-
+.color-card:hover {
+    background-color: #c8b5f6;
+}
 
 /* ==== the Big Color Box ==== */
 .swatch {
