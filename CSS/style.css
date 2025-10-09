@@ -21,7 +21,7 @@ html {
     padding: 2px;
 }
 
-.navigation a:hover {
+.navigation a {
     background: #c8b5f6;
     color: white;
 }
