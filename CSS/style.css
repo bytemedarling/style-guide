@@ -114,6 +114,13 @@ h1 {
     margin: 1rem auto;
 }
 
+.font-section:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0,1);
+    transition: all 0.3s ease;
+}
+
+
 p {
     font-size: 1rem;
 }
