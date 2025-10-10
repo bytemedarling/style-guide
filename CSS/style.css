@@ -115,3 +115,17 @@ h1 {
 .italic {
     font-style: italic;
 }
+
+/* ==== 2nd Font Section ==== */
+.shadows {
+    font-family: "Shadows Into The Light Two", Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-size: bold;
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
