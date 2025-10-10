@@ -131,7 +131,21 @@ h1 {
 
 .bold {
     font-size: bold;
-    text-decoration: underline;
+    font-weight: bold;
+
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* ==== 3rd Font Section ==== */
+.dosis {
+    font-family: "Dosis", Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .italic {
