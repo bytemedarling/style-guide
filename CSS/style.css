@@ -53,12 +53,13 @@ h1 {
     border-radius: 15px;
     width: 200px;
     overflow: hidden;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 
 .color-card:hover {
     transform: scale(1.02);
     box-shadow: 2 4px 10px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
+    transform: scale(1.02);
 }
 
 /* ==== the Big Color Box ==== */
