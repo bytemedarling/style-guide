@@ -1,9 +1,7 @@
 html {
     scroll-behavior: smooth;
 }
-body {
-    background-color: rgb(255, 250, 252);
-}
+
 /* ==== Nav Links ==== */
 .navigation ul {
     display: flex;
