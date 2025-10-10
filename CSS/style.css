@@ -155,3 +155,16 @@ p {
 .italic {
     font-style: italic;
 }
+
+/* ==== 4th Font Section ==== */
+.ribeye {
+    font-family: "Ribeye", Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
