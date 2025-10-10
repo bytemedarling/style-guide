@@ -28,7 +28,15 @@ h1 {
 
 /* ==== Color Cards Section ==== */
 #colors {
-    
+    max-width: 1000px;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    padding-bottom: 2rem;
 }
 
 #colors h2 {
