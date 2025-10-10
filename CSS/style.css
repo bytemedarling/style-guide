@@ -101,5 +101,9 @@ h1 {
     margin-bottom: 1.5rem;
     width: 100%;
 }
-/* ==== Font Cards ==== */
-.
+/* ==== Font Cards Section ==== */
+.font-section {
+    text-align: center;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+}
