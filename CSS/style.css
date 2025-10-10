@@ -106,5 +106,6 @@ h1 {
     text-align: center;
     border: 1px solid lightgrey;
     border-radius: 15px;
-    overflow: hidden;
+    width: 60%;
+    margin: 1rem auto;
 }
