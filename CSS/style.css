@@ -55,6 +55,10 @@ h1 {
     overflow: hidden;
 }
 
+.color-card:hover {
+    box-shadow: var(--shadow-hover);
+}
+
 /* ==== the Big Color Box ==== */
 .swatch {
     height: 110px;
