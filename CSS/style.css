@@ -110,6 +110,10 @@ h1 {
     margin: 1rem auto;
 }
 
+p {
+    font-size: 1rem;
+}
+
 /* ==== 1st Font Box ==== */
 .bbh {
     font-family: "BBH Sans Hegarty", cursive, sans-serif;
