@@ -106,7 +106,7 @@ h1 {
     text-align: left;
     border: 1px solid lightgrey;
     border-radius: 15px;
-    width: 60%;
+    width: 85%;
     margin: 1rem auto;
 }
 
@@ -130,13 +130,11 @@ p {
 
 /* ==== 2nd Font Section ==== */
 .shadows {
-    font-family: "Shadows Into The Light Two", Arial, Helvetica, sans-serif;
+    font-family: "Shadows Into Light Two", Arial, Helvetica, sans-serif;
 }
 
 .bold {
-    font-size: bold;
     font-weight: bold;
-
 }
 
 .italic {
@@ -158,7 +156,7 @@ p {
 
 /* ==== 4th Font Section ==== */
 .ribeye {
-    font-family: "Ribeye", Arial, Helvetica, sans-serif;
+    font-family: "Ribeye Marrow", Arial, Helvetica, sans-serif;
 }
 
 .bold {
