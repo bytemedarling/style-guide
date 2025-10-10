@@ -109,3 +109,16 @@ h1 {
     width: 60%;
     margin: 1rem auto;
 }
+
+/* ==== 1st Font Box ==== */
+.bbh {
+    font-family: "BBH Sans Hegarty", cursive, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
