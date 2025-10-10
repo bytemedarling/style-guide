@@ -35,6 +35,8 @@ h1 {
     flex-wrap: wrap;
     gap: 1rem;
     border: 1px solid lightgray;
+    border-radius: 15px;
+    padding-bottom: 2rem;
 }
 
 #colors h2 {
