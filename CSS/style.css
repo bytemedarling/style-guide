@@ -103,7 +103,7 @@ h1 {
 }
 /* ==== Font Cards Section ==== */
 .font-section {
-    text-align: center;
+    text-align: left;
     border: 1px solid lightgrey;
     border-radius: 15px;
     width: 60%;
@@ -113,10 +113,11 @@ h1 {
 /* ==== 1st Font Box ==== */
 .bbh {
     font-family: "BBH Sans Hegarty", cursive, sans-serif;
+    font-size: 2rem;
 }
 
 .bold {
-    font-weight: bold;
+    text-decoration: underline;
 }
 
 .italic {
