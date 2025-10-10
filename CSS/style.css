@@ -100,7 +100,7 @@ h1 {
 
 /* ==== Fonts Section Styling ==== */
 #fonts {
-
+    overflow: hidden;
 }
 
 #fonts h2 {
@@ -115,6 +115,8 @@ h1 {
     border-radius: 15px;
     width: 40%;
     margin: 1rem auto;
+    background-color: grey;
+
 }
 
 .font-section:hover {
