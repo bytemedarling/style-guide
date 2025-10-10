@@ -1,7 +1,9 @@
 html {
     scroll-behavior: smooth;
 }
-
+body {
+    background-color: azure;
+}
 /* ==== Nav Links ==== */
 .navigation ul {
     display: flex;
