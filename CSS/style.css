@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    background-color: azure;
+    background-color: rgb(253, 235, 244);
 }
 /* ==== Nav Links ==== */
 .navigation ul {
