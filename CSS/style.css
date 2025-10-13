@@ -21,6 +21,20 @@ html {
     padding: 2px;
 }
 
+/* ===== Breadcrumbs ==== */
+.breadcrumb {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    background-color: rgb(178, 245, 223);
+    border-radius: .5rem;
+}
+
+.breadcrumb li {
+    display: inline-block;
+    margin: 0 .5rem;
+}
+
 /* ==== Header ==== */
 h1 {
     text-align: center;
@@ -188,5 +202,5 @@ p {
 }
 #styles h2 {
     text-align: center;
-    
+
 }
