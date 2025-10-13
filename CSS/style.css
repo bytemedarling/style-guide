@@ -23,17 +23,44 @@ html {
 
 /* ===== Breadcrumbs ==== */
 .breadcrumb {
+    display: block;
+    width: fit-content;
     text-align: center;
     list-style: none;
     margin: 1rem 0;
-    background-color: rgb(226, 178, 245);
+    padding: .5rem 1rem;
+    background-color: #fff7cc;
     border-radius: .5rem;
-    content: > ;
+    box-shadow: 0 2px 6 px rgba(0, 0, 0, .08);
+}   
+
+.breadcrumb ul {
+    display: flex;
+    gap: .5rem;
+    list-style: none;
+    align-items: center;
+    margin: 0;
+    padding: 0;
 }
 
 .breadcrumb li {
     display: inline-block;
     margin: 0 .5rem;
+}
+
+.breadcrumb li + li::before {
+    content: ">";
+    margin: 0 .25rem;
+    opacity: .6;
+}
+/* ===== Breadcrumb links ==== */
+.breadcrumb a {
+    text-decoration: none;
+    color: #333;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
 }
 
 /* ==== Header ==== */
@@ -199,7 +226,7 @@ p {
 
 /* ======== Text Style ======== */
 #styles {
-
+    overflow: hidden;
 }
 #styles h2 {
     text-align: center;
