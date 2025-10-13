@@ -181,3 +181,12 @@ p {
 .italic {
     font-style: italic;
 }
+
+/* ======== Text Style ======== */
+#styles {
+
+}
+#styles h2 {
+    text-align: center;
+    
+}
