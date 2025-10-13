@@ -26,9 +26,9 @@ html {
     text-align: center;
     list-style: none;
     margin: 1rem 0;
-    background-color: rgb(178, 245, 223);
+    background-color: rgb(226, 178, 245);
     border-radius: .5rem;
-    content: ">";
+    content: > ;
 }
 
 .breadcrumb li {
