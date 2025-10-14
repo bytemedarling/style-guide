@@ -172,6 +172,10 @@ p {
     text-align: center;
 }
 
+h3 {
+    text-align: center;
+}
+
 /* ==== 1st Font Box ==== */
 .bbh {
     font-family: "BBH Sans Hegarty", cursive, sans-serif;
