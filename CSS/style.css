@@ -238,7 +238,7 @@ h3 {
 }
 
 /* ======== Text Style Section ======== */
-#styles {
+#text-styles {
     max-width: 1000px;
     margin: 2rem auto;
     display: flex;
@@ -250,13 +250,13 @@ h3 {
     padding-bottom: 2rem;
 }
 
-#styles h2 {
+#text-styles h2 {
     text-align: center;
     margin-bottom: 1.5rem;
     width: 100%;
 }
 
-.text-styles {
+.styles {
     border: 1px solid lightgrey;
     border-radius: 15px;
     width: 80%;
