@@ -231,11 +231,21 @@ h3 {
 
 /* ======== Text Style Section ======== */
 #styles {
-    overflow: hidden;
+    max-width: 1000px;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    padding-bottom: 2rem;
 }
+
 #styles h2 {
     text-align: center;
-
+    margin-bottom: 1.5rem;
+    width: 100%;
 }
 
 .text-styles {
