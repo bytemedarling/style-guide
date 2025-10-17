@@ -5,9 +5,10 @@ html {
 .wsg {
     background-color: #8B5CF6;
     color: #FACC15;
-    margin: 1rem auto;
+    margin: 2.5rem auto;
     padding-top: .5rem;
     padding-bottom: .5rem;
+    font-size: 3.5rem;
 }
 
 h1 .wsg {
@@ -82,6 +83,12 @@ h1 .wsg {
 /* ==== Header ==== */
 h1 {
     text-align: center;
+}
+
+/* ======== Section Heading Styling ========= */
+section h2 {
+    background-color: #8B5CF6;
+    color: #FACC15;
 }
 
 /* ==== Color Cards Section ==== */
@@ -278,7 +285,7 @@ h3 {
     width: 80%;
     margin: 1rem auto;
 }
-
+/* ========= Footer ========== */
 #top-bar {
     color: black;
     text-align: center;
