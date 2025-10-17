@@ -1,9 +1,10 @@
 html {
     scroll-behavior: smooth;
 }
-
+/* ====== Header/Banner ====== */
 .wsg {
-    font-size: 2.5rem;
+    background-color: rgb(215, 213, 213);
+    margin: 0 auto;
 }
 
 /* ==== Nav Links ==== */
@@ -37,7 +38,7 @@ html {
     list-style: none;
     margin: 1rem 0;
     padding: .5rem 1rem;
-    background-color: #fff8dc);
+    background-color: #fff8dc;
     border-radius: .5rem;
     box-shadow: 0 2px 6 px rgba(0, 0, 0, .08);
 }   
@@ -269,4 +270,11 @@ h3 {
     border-radius: 15px;
     width: 80%;
     margin: 1rem auto;
+}
+
+#top-bar {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+
 }
