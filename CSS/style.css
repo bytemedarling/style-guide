@@ -3,8 +3,13 @@ html {
 }
 /* ====== Header/Banner ====== */
 .wsg {
-    background-color: rgb(215, 213, 213);
+    background-color: #8B5CF6;
     margin: 0 auto;
+    padding-bottom: 1rem;
+}
+
+h1 .wsg {
+    font-size: 2rem;
 }
 
 /* ==== Nav Links ==== */
