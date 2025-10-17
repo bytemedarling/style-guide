@@ -4,8 +4,10 @@ html {
 /* ====== Header/Banner ====== */
 .wsg {
     background-color: #8B5CF6;
-    margin: .5rem auto;
+    color: #FACC15;
+    margin: 1rem auto;
     padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 
 h1 .wsg {
