@@ -15,6 +15,10 @@ h1 .wsg {
     font-size: 2rem;
 }
 
+#top-bar {
+    text-align: center;
+}
+
 /* ==== Nav Links ==== */
 .navigation ul {
     display: flex;
@@ -86,7 +90,7 @@ h1 {
 }
 
 /* ======== Section Heading Styling ========= */
-section h2 {
+#top-bar .wsg {
     background-color: #8B5CF6;
     color: #FACC15;
 }
@@ -285,6 +289,13 @@ h3 {
     width: 80%;
     margin: 1rem auto;
 }
+
+.styles:hover {
+    transform: scale(1.02);
+    box-shadow: 2 4px 10px rgba(0, 0, 0, 0.1);
+    transform: scale(1.02);
+}
+
 /* ========= Footer ========== */
 #top-bar {
     color: black;
