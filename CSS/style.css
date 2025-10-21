@@ -25,6 +25,10 @@ h1 .wsg {
     justify-content: center;
 }
 
+.navigation li {
+    background-color: white;
+}
+
 .navigation a {
     text-decoration: none;
     color: black;
