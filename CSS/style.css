@@ -92,7 +92,7 @@ h1 {
 /* ======== Section Heading Styling ========= */
 #top-bar .wsg {
     background-color: #8B5CF6;
-    color: #FACC15;
+    color: #FACC15;   
 }
 
 /* ==== Color Cards Section ==== */
@@ -297,7 +297,7 @@ h3 {
 }
 
 /* ========= Footer ========== */
-#top-bar {
+.button {
     color: black;
     text-align: center;
     text-decoration: underline;
