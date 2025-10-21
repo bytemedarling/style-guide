@@ -85,12 +85,6 @@ h1 {
     text-align: center;
 }
 
-/* ======== Section Heading Styling ========= */
-#top-bar .wsg {
-    background-color: #8B5CF6;
-    color: #FACC15;   
-}
-
 /* ==== Color Cards Section ==== */
 #colors {
     max-width: 1000px;
