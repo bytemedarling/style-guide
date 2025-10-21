@@ -2,15 +2,6 @@ html {
     scroll-behavior: smooth;
 }
 /* ====== Header/Banner ====== */
-.wsg {
-    background-color: #8B5CF6;
-    color: #FACC15;
-    margin: 2.5rem auto;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-    font-size: 3.5rem;
-}
-
 h1 .wsg {
     font-size: 2rem;
 }
@@ -20,6 +11,11 @@ h1 .wsg {
 }
 
 /* ==== Nav Links ==== */
+
+.navigation {
+    background-color: #8B5CF6;
+}
+
 .navigation ul {
     display: flex;
     gap: 1rem;
@@ -300,5 +296,6 @@ h3 {
 .button {
     color: black;
     text-align: center;
-    text-decoration: underline;  
+    text-decoration: underline;
+    display: inline-block;
 }

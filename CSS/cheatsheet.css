@@ -37,6 +37,7 @@
 .breadcrumb li {
     display: inline-block;
     margin: 0 0.5rem;
+    
 }
 
 .breadcrumb a {
@@ -45,13 +46,13 @@
 }
 
 .breadcrumb a:hover {
-    color: #faf;
+    color: #ffc0cb;
 }
 
 /* ======= Table Edits ======== */
 
 th {
-    background-color: pink;
+    background-color: #ffc0cb;
     text-align: center;
     font-weight: bold;
 }
