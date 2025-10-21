@@ -291,5 +291,7 @@ h3 {
     color: black;
     text-align: center;
     text-decoration: underline;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
