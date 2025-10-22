@@ -14,6 +14,8 @@ h1 .wsg {
 
 .navigation {
     background-color: #8B5CF6;
+    padding: 2px;
+    margin: 0 auto;
 }
 
 .navigation ul {
@@ -292,11 +294,13 @@ h3 {
 
 /* ========= Footer ========== */
 footer {
-    color: black;
+    color: #FAF;
     background-color: #8B5CF6;
     text-align: center;
     text-decoration: underline;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 2px;
+    margin-top: 40px;
 }
