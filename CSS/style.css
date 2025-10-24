@@ -2,8 +2,8 @@ html {
     scroll-behavior: smooth;
 }
 /* ====== Header/Banner ====== */
-h1 .wsg {
-    font-size: 2rem;
+h1 .wsg { 
+    font-size: 5rem;
 }
 
 #top-bar {
@@ -14,7 +14,7 @@ h1 .wsg {
 
 .navigation {
     background-color: #8B5CF6;
-    padding: 2px;
+    padding: 20px;
     margin-top: 40px;
 }
 
@@ -303,4 +303,8 @@ footer {
     align-items: center;
     padding: 2px;
     margin-top: 40px;
+}
+
+.button {
+    color: white;
 }
