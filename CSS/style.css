@@ -14,7 +14,7 @@ h1 {
 
 .navigation {
     background-color: #8B5CF6;
-    padding-top: 10px;
+    padding-top: 8px;
     padding-bottom: 10px;
     margin-top: 40px;
 }
@@ -40,7 +40,7 @@ h1 {
 }
 
 .navigation a:hover {
-    background-color: #FAF;
+    background-color: #F59E0B;
 }
 
 /* ===== Breadcrumbs ==== */
@@ -53,7 +53,7 @@ h1 {
     padding: .5rem 1rem;
     background-color: #fff8dc;
     border-radius: .5rem;
-    box-shadow: 0 2px 6 px rgba(0, 0, 0, .08);
+    box-shadow: 0 2px 6 px #D946EF;
 }   
 
 .breadcrumb ul {
