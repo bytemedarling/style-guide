@@ -117,6 +117,7 @@ h1 {
     border-radius: 15px;
     width: 200px;
     transition: box-shadow 0.3s ease, transform 0.3s ease;
+    overflow: hidden;
 }
 
 .color-card:hover {
@@ -124,7 +125,6 @@ h1 {
     box-shadow: 2 4px 10px rgba(0, 0, 0, 0.1);
     background-color: white;
     transition: background-color 0.3s ease;
-    overflow: hidden;
 }
 
 /* ==== the Big Color Box ==== */
