@@ -294,7 +294,7 @@ h3 {
 
 /* ========= Footer ========== */
 footer {
-    color: white;
+    color: #FACC15;
     background-color: #8B5CF6;
     text-align: center;
     text-decoration: underline;
@@ -306,5 +306,5 @@ footer {
 }
 
 .button {
-    color: white;
+    color: #FACC15;
 }
