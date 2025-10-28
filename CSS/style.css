@@ -20,15 +20,15 @@ h1.wsg {
     background-color: #8B5CF6;
     color:#FACC15;
     padding: 2rem 0 1rem;
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
 /* ==== Nav Links ==== */
 
 .navigation {
     background-color: #8B5CF6;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: 5px;
 }
 
