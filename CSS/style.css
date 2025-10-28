@@ -7,6 +7,10 @@ h1 {
     font-family: "BBH Sans Hegarty" Arial, Helvetica, sans-serif;
 }
 
+h1 .wsg {
+    font-family: "Ribeye Marrow", Arial, Helvetica, sans-serif;
+}
+
 #top-bar {
     text-align: center;
 }
