@@ -18,8 +18,9 @@ h1.wsg {
 #top-bar {
     text-align: center;
     background-color: #8B5CF6;
-    color:#FACC15
+    color:#FACC15;
     padding: 2rem 0 1rem;
+    margin-top: 5px;
 }
 
 /* ==== Nav Links ==== */
