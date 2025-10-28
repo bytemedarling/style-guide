@@ -8,6 +8,10 @@ h1 {
 
 h1.wsg {
     font-family: "Ribeye Marrow", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 3rem;
+    text-transform: uppercase;
 }
 
 #top-bar {
