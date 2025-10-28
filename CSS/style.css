@@ -4,7 +4,6 @@ html {
 /* ====== Header/Banner ====== */
 h1 { 
     font-size: 2.8rem;
-    font-family: "BBH Sans Hegarty" Arial, Helvetica, sans-serif;
 }
 
 header h1 .wsg {
@@ -20,7 +19,7 @@ header h1 .wsg {
 .navigation {
     background-color: #8B5CF6;
     padding-top: 10px;
-    padding-bottom: 12px;
+    padding-bottom: 10px;
     margin-top: 20px;
 }
 
