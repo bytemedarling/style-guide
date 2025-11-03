@@ -17,7 +17,7 @@
     text-align: center;
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
-    margin: 0 auto;
+    margin: 0;
     display: block;
 }
 
@@ -25,9 +25,10 @@
 
 .breadcrumb {
     text-align: center;
-    padding: 1rem;
+    padding: 0.75rem 0;
     margin: 0 auto;
     border-radius: 8px;
+    width: 100%;
 }
 
 .breadcrumb ul {
