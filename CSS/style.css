@@ -277,9 +277,8 @@ h3 {
 
 /* ======== Text Style Section ======== */
 #text-styles {
-    max-width: 100px;
+    max-width: 1000px;
     margin: 2rem auto;
-    display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
